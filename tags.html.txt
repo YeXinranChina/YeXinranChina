@@ -1,6 +1,6 @@
 <html>
 <body>
-<form action="http://Edqaa/t/tEcho" enctype="application/x-www-form-urlencoded" id="f1" method="post" name="f1" target="_blank">
+<form action="https://edqaa.com/t/Echo" enctype="application/x-www-form-urlencoded" id="sam1" method="post" name="sam1" target="_blank">
  <table align="center" border="0" cellpadding="4" cellspacing="4" style="background:url(https://img0.baidu.com/it/u=748622460,2029808955&fm=253&app=138&size=w931&n=0&f=PNG&fmt=auto?sec=1710262800&t=b8fa149adaf05ed6ffbaca961776cb1e)">
   <caption>
    <span style="font-size:26px;"><span style="color:#ff0000;">Example of table and form</span></span><br />
